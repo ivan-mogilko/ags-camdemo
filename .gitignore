@@ -1,0 +1,7 @@
+/_Debug/
+/Compiled/
+/backup_acsprset.spr
+*.bak
+*.user
+/_OpenInEditor.lock
+/*.dmp

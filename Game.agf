@@ -1737,108 +1737,108 @@
               <SpriteFolder Name="Room400">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="7" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="7" Width="187" Height="180" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>D:\Dev\ags-games\cameras-demo\art\demo images (2)\chest.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>180</ImportHeight>
+                      <ImportWidth>187</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="8" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="8" Width="187" Height="180" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/chest open.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>180</ImportHeight>
+                      <ImportWidth>187</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="9" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="9" Width="279" Height="432" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/door.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>432</ImportHeight>
+                      <ImportWidth>279</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="10" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="10" Width="152" Height="528" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/door open.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>528</ImportHeight>
+                      <ImportWidth>152</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="11" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="11" Width="46" Height="52" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/hook.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>52</ImportHeight>
+                      <ImportWidth>46</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="12" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="12" Width="46" Height="52" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/hook with key.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>52</ImportHeight>
+                      <ImportWidth>46</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="2" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2" Width="261" Height="266" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName />
+                      <FileName>Art/room400/portal.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>6</ImportHeight>
-                      <ImportWidth>10</ImportWidth>
+                      <ImportHeight>266</ImportHeight>
+                      <ImportWidth>261</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -1854,7 +1854,7 @@
                 <Sprites>
                   <Sprite Slot="13" Width="278" Height="423" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                     <Source>
-                      <FileName>temp/mirror.png</FileName>
+                      <FileName>Art/room400/mirror.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>423</ImportHeight>
@@ -1869,7 +1869,7 @@
                   </Sprite>
                   <Sprite Slot="3" Width="278" Height="423" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>temp/mirror mask.png</FileName>
+                      <FileName>Art/room400/mirror mask.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>423</ImportHeight>
@@ -2026,33 +2026,33 @@
           <SpriteFolder Name="Items">
             <SubFolders />
             <Sprites>
-              <Sprite Slot="14" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="14" Width="46" Height="52" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName />
+                  <FileName>Art/room400/mirror small sprite.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
-                  <ImportHeight>6</ImportHeight>
-                  <ImportWidth>10</ImportWidth>
+                  <ImportHeight>52</ImportHeight>
+                  <ImportWidth>46</ImportWidth>
                   <ImportAsTile>False</ImportAsTile>
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>BottomRight</ImportMethod>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
-              <Sprite Slot="15" Width="10" Height="6" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+              <Sprite Slot="15" Width="46" Height="52" ColorDepth="32" Resolution="Real" AlphaChannel="True">
                 <Source>
-                  <FileName />
+                  <FileName>Art/room400/key.png</FileName>
                   <OffsetX>0</OffsetX>
                   <OffsetY>0</OffsetY>
-                  <ImportHeight>6</ImportHeight>
-                  <ImportWidth>10</ImportWidth>
+                  <ImportHeight>52</ImportHeight>
+                  <ImportWidth>46</ImportWidth>
                   <ImportAsTile>False</ImportAsTile>
                   <Frame>0</Frame>
                   <RemapToGamePalette>False</RemapToGamePalette>
                   <RemapToRoomPalette>False</RemapToRoomPalette>
-                  <ImportMethod>BottomRight</ImportMethod>
+                  <ImportMethod>LeaveAsIs</ImportMethod>
                   <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>

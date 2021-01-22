@@ -1,3 +1,5 @@
+// TINY_FLOAT constant, to detect floating point values close to zero
+#define TINY_FLOAT 0.00000001
 
 struct Utils
 {
@@ -5,4 +7,6 @@ struct Utils
 	import static Point* CenterAround(int x, int y, int w, int h, int xmin, int ymin, int xmax, int ymax);
 	import static Point* ClampPosition(int x, int y, int w, int h, int xmin, int ymin, int xmax, int ymax);
 	import static void HideAllGUI();
+	
+	import static void SpeechBox(Character* c, String text);
 };

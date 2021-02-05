@@ -10,7 +10,7 @@
       <ColorDepth>TrueColor</ColorDepth>
       <CustomResolution>1280,720</CustomResolution>
       <CompressSprites>False</CompressSprites>
-      <ExtendedCompiler>False</ExtendedCompiler>
+      <ExtendedCompiler>True</ExtendedCompiler>
       <SaveScreenshots>False</SaveScreenshots>
       <RoomTransition>FadeOutAndIn</RoomTransition>
       <TurnBeforeFacing>False</TurnBeforeFacing>

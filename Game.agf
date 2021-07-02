@@ -1131,7 +1131,7 @@
                 <Width>608</Width>
                 <Left>16</Left>
                 <Top>16</Top>
-                <ZOrder>0</ZOrder>
+                <ZOrder>2</ZOrder>
                 <ID>0</ID>
                 <Name>btnMMRoom1</Name>
                 <Clickable>True</Clickable>
@@ -1155,7 +1155,7 @@
                 <Width>608</Width>
                 <Left>16</Left>
                 <Top>418</Top>
-                <ZOrder>1</ZOrder>
+                <ZOrder>3</ZOrder>
                 <ID>1</ID>
                 <Name>btnMMQuit</Name>
                 <Clickable>True</Clickable>
@@ -1179,7 +1179,7 @@
                 <Width>608</Width>
                 <Left>16</Left>
                 <Top>72</Top>
-                <ZOrder>2</ZOrder>
+                <ZOrder>4</ZOrder>
                 <ID>2</ID>
                 <Name>btnMMRoom2</Name>
                 <Clickable>True</Clickable>
@@ -1203,7 +1203,7 @@
                 <Width>608</Width>
                 <Left>16</Left>
                 <Top>128</Top>
-                <ZOrder>3</ZOrder>
+                <ZOrder>5</ZOrder>
                 <ID>3</ID>
                 <Name>btnMMRoom3</Name>
                 <Clickable>True</Clickable>
@@ -1227,9 +1227,74 @@
                 <Width>608</Width>
                 <Left>16</Left>
                 <Top>184</Top>
-                <ZOrder>4</ZOrder>
+                <ZOrder>6</ZOrder>
                 <ID>4</ID>
                 <Name>btnMMRoom4</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick>btnMMCredits_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>3</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Credits</Text>
+                <Height>48</Height>
+                <Locked>True</Locked>
+                <Width>608</Width>
+                <Left>16</Left>
+                <Top>362</Top>
+                <ZOrder>7</ZOrder>
+                <ID>5</ID>
+                <Name>btnMMCredits</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUILabel>
+                <TextAlignment>Center</TextAlignment>
+                <TextColor>65528</TextColor>
+                <Font>4</Font>
+                <Text xml:space="preserve">New Label</Text>
+                <Height>394</Height>
+                <Locked>True</Locked>
+                <Width>608</Width>
+                <Left>16</Left>
+                <Top>16</Top>
+                <ZOrder>1</ZOrder>
+                <ID>6</ID>
+                <Name>lblCredits</Name>
+                <Clickable>False</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>False</Visible>
+              </GUILabel>
+              <GUIButton>
+                <OnClick>btnMMBack_OnClick</OnClick>
+                <ClickAction>RunScript</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>MiddleCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>3</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>0</Image>
+                <Text>Back</Text>
+                <Height>48</Height>
+                <Locked>True</Locked>
+                <Width>608</Width>
+                <Left>16</Left>
+                <Top>418</Top>
+                <ZOrder>0</ZOrder>
+                <ID>7</ID>
+                <Name>btnMMBack</Name>
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
@@ -1470,6 +1535,84 @@
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
               </GUIButton>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>40</Height>
+              <Width>640</Width>
+              <Left>320</Left>
+              <Top>40</Top>
+              <Clickable>True</Clickable>
+              <Visible>False</Visible>
+              <PopupStyle>Normal</PopupStyle>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>65535</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>8</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>10</ID>
+              <Name>gMainMenuTitle</Name>
+            </NormalGUI>
+            <Controls>
+              <GUILabel>
+                <TextAlignment>Center</TextAlignment>
+                <TextColor>59164</TextColor>
+                <Font>4</Font>
+                <Text xml:space="preserve">** AGS Cameras Tech Demo **</Text>
+                <Height>20</Height>
+                <Locked>True</Locked>
+                <Width>640</Width>
+                <Left>0</Left>
+                <Top>8</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>Label1</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUILabel>
+            </Controls>
+          </GUIMain>
+          <GUIMain>
+            <NormalGUI>
+              <OnClick />
+              <Height>40</Height>
+              <Width>1280</Width>
+              <Left>0</Left>
+              <Top>680</Top>
+              <Clickable>True</Clickable>
+              <Visible>False</Visible>
+              <PopupStyle>Normal</PopupStyle>
+              <PopupYPos>0</PopupYPos>
+              <ZOrder>0</ZOrder>
+              <BorderColor>0</BorderColor>
+              <Transparency>0</Transparency>
+              <BackgroundColor>0</BackgroundColor>
+              <BackgroundImage>0</BackgroundImage>
+              <ID>11</ID>
+              <Name>gMainMenuFootnote</Name>
+            </NormalGUI>
+            <Controls>
+              <GUILabel>
+                <TextAlignment>Left</TextAlignment>
+                <TextColor>59164</TextColor>
+                <Font>4</Font>
+                <Text xml:space="preserve">New Label</Text>
+                <Height>22</Height>
+                <Locked>True</Locked>
+                <Width>640</Width>
+                <Left>8</Left>
+                <Top>4</Top>
+                <ZOrder>0</ZOrder>
+                <ID>0</ID>
+                <Name>lblFootnote</Name>
+                <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUILabel>
             </Controls>
           </GUIMain>
         </GUIs>

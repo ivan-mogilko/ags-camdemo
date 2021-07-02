@@ -39,8 +39,9 @@
 #define OBJECTPOOL_VERSION_00_01_00_01
 
 struct ObjectPool {
-    /// Adds a range of IDs into the list. You can keep adding more later and all the previous
-    /// ones will be kept unless you call RemoveObjects or RemoveAll.
+    /// Adds a range of IDs into the list.
+	/* You can keep adding more later and all the previous
+     * ones will be kept unless you call RemoveObjects or RemoveAll. */
     import void AddObjects(int from, int to);
     /// Removes a range of IDs from the list.
     import void RemoveObjects(int from, int to);

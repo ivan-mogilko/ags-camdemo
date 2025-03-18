@@ -68,8 +68,8 @@ struct ObjectPool {
 
     protected int _capacity;
     protected int _numUsed;
-    protected bool _usingObj[];
-    protected bool _isFree[];
+    protected int _usingObj[]; // NOTE: using int to let expand with Array_ExpandIf
+    protected int _isFree[];   // NOTE: using int to let expand with Array_ExpandIf
     protected int _freeObj[];
     protected int _numFreeObj;
 };

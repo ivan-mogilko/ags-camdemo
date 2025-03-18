@@ -118,7 +118,7 @@ struct DragDrop
   /// Gets the current drag mouse button
   readonly import static attribute MouseButton  CurrentMouseButton;
   /// Gets the current drag mode (this hints the type of object being dragged)
-  readonly import static attribute int          CurrentMode;
+  readonly import static attribute DragDropMode CurrentMode;
   /// Gets the user-defined dragged object integer tag
   readonly import static attribute int          ObjectTag;
   /// Gets the user-defined dragged object String tag

@@ -57,7 +57,7 @@
       <OptimizeSpriteStorage>True</OptimizeSpriteStorage>
       <PixelPerfect>True</PixelPerfect>
       <PlaySoundOnScore>0</PlaySoundOnScore>
-      <ReleaseDate>2018-01-01</ReleaseDate>
+      <ReleaseDate>2025-03-19</ReleaseDate>
       <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
       <RoomTransition>FadeOutAndIn</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
@@ -84,7 +84,7 @@
       <UseLowResCoordinatesInScript>False</UseLowResCoordinatesInScript>
       <UseOldCustomDialogOptionsAPI>False</UseOldCustomDialogOptionsAPI>
       <UseOldKeyboardHandling>False</UseOldKeyboardHandling>
-      <Version>1.0.0.0</Version>
+      <Version>1.1.0.0</Version>
       <WalkInLookMode>False</WalkInLookMode>
       <WhenInterfaceDisabled>GreyOut</WhenInterfaceDisabled>
     </Settings>
@@ -94,7 +94,7 @@
       <CustomAppDataPath IsNull="True" />
       <CustomSavePath />
       <DigitalSound>Default</DigitalSound>
-      <FullscreenDesktop>False</FullscreenDesktop>
+      <FullscreenDesktop>True</FullscreenDesktop>
       <FullscreenGameScaling>ProportionalStretch</FullscreenGameScaling>
       <GameScaling>MaxInteger</GameScaling>
       <GameScalingMultiplier>1</GameScalingMultiplier>
@@ -107,7 +107,7 @@
       <SoundCacheSize>32</SoundCacheSize>
       <SpriteCacheSize>128</SpriteCacheSize>
       <TextureCacheSize>128</TextureCacheSize>
-      <TitleText xml:space="preserve">camdemo Setup</TitleText>
+      <TitleText xml:space="preserve">AGS Camera Tech Demo Setup</TitleText>
       <TouchToMouseEmulation>OneFinger</TouchToMouseEmulation>
       <TouchToMouseMotionMode>Direct</TouchToMouseMotionMode>
       <Translation />

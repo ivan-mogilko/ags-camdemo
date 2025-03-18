@@ -5,3 +5,6 @@
 *.user
 /_OpenInEditor.lock
 /*.dmp
+
+# compiled rooms are strictly output in ags4
+room*.crm

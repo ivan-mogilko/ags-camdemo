@@ -1,0 +1,2226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Room Version="1">
+  <BackgroundAnimationDelay>5</BackgroundAnimationDelay>
+  <BackgroundAnimationEnabled>True</BackgroundAnimationEnabled>
+  <BackgroundCount>1</BackgroundCount>
+  <BottomEdgeY>396</BottomEdgeY>
+  <ColorDepth>32</ColorDepth>
+  <Description xml:space="preserve">Top Down Arcade</Description>
+  <FaceDirectionRatio>0</FaceDirectionRatio>
+  <GameID>15698333</GameID>
+  <Height>702</Height>
+  <LeftEdgeX>0</LeftEdgeX>
+  <MaskResolution>1</MaskResolution>
+  <Number>403</Number>
+  <PlayerCharacterView>0</PlayerCharacterView>
+  <Properties />
+  <RightEdgeX>634</RightEdgeX>
+  <ShowPlayerCharacter>True</ShowPlayerCharacter>
+  <TopEdgeY>80</TopEdgeY>
+  <Width>978</Width>
+  <Interactions>
+    <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+    <Event Index="0" />
+    <Event Index="1" />
+    <Event Index="2" />
+    <Event Index="3" />
+    <Event Index="4" />
+    <Event Index="5">room_Load</Event>
+    <Event Index="6">room_RepExec</Event>
+    <Event Index="7">room_AfterFadeIn</Event>
+    <Event Index="8">room_Leave</Event>
+    <Event Index="9" />
+  </Interactions>
+  <Objects>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject0</Name>
+      <Properties />
+      <StartX>17</StartX>
+      <StartY>21</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject1</Name>
+      <Properties />
+      <StartX>29</StartX>
+      <StartY>20</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject2</Name>
+      <Properties />
+      <StartX>42</StartX>
+      <StartY>29</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject3</Name>
+      <Properties />
+      <StartX>49</StartX>
+      <StartY>7</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject4</Name>
+      <Properties />
+      <StartX>53</StartX>
+      <StartY>30</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject5</Name>
+      <Properties />
+      <StartX>64</StartX>
+      <StartY>26</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject6</Name>
+      <Properties />
+      <StartX>82</StartX>
+      <StartY>26</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject7</Name>
+      <Properties />
+      <StartX>33</StartX>
+      <StartY>25</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject8</Name>
+      <Properties />
+      <StartX>54</StartX>
+      <StartY>34</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject9</Name>
+      <Properties />
+      <StartX>73</StartX>
+      <StartY>32</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject10</Name>
+      <Properties />
+      <StartX>63</StartX>
+      <StartY>40</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject11</Name>
+      <Properties />
+      <StartX>76</StartX>
+      <StartY>26</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject12</Name>
+      <Properties />
+      <StartX>70</StartX>
+      <StartY>38</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject13</Name>
+      <Properties />
+      <StartX>53</StartX>
+      <StartY>40</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject14</Name>
+      <Properties />
+      <StartX>56</StartX>
+      <StartY>36</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject15</Name>
+      <Properties />
+      <StartX>67</StartX>
+      <StartY>39</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject16</Name>
+      <Properties />
+      <StartX>60</StartX>
+      <StartY>30</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject17</Name>
+      <Properties />
+      <StartX>60</StartX>
+      <StartY>31</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject18</Name>
+      <Properties />
+      <StartX>107</StartX>
+      <StartY>30</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>0</Image>
+      <Name>oObject19</Name>
+      <Properties />
+      <StartX>124</StartX>
+      <StartY>22</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn1</Name>
+      <Properties />
+      <StartX>160</StartX>
+      <StartY>132</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn2</Name>
+      <Properties />
+      <StartX>160</StartX>
+      <StartY>590</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn3</Name>
+      <Properties />
+      <StartX>798</StartX>
+      <StartY>132</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn4</Name>
+      <Properties />
+      <StartX>798</StartX>
+      <StartY>590</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn5</Name>
+      <Properties />
+      <StartX>383</StartX>
+      <StartY>289</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn6</Name>
+      <Properties />
+      <StartX>571</StartX>
+      <StartY>288</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn7</Name>
+      <Properties />
+      <StartX>386</StartX>
+      <StartY>435</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+    <RoomObject>
+      <Baseline>0</Baseline>
+      <BaselineOverridden>False</BaselineOverridden>
+      <BlendMode>Normal</BlendMode>
+      <Clickable>True</Clickable>
+      <Description />
+      <EffectiveBaseline>0</EffectiveBaseline>
+      <Enabled>True</Enabled>
+      <Image>19</Image>
+      <Name>oAlienSpawn8</Name>
+      <Properties />
+      <StartX>571</StartX>
+      <StartY>434</StartY>
+      <UseRoomAreaLighting>False</UseRoomAreaLighting>
+      <UseRoomAreaScaling>False</UseRoomAreaScaling>
+      <Visible>True</Visible>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+      </Interactions>
+    </RoomObject>
+  </Objects>
+  <Hotspots>
+    <RoomHotspot>
+      <Description xml:space="preserve">No hotspot</Description>
+      <Name>hHotspot0</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 1</Description>
+      <Name>hHotspot1</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 2</Description>
+      <Name>hHotspot2</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 3</Description>
+      <Name>hHotspot3</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 4</Description>
+      <Name>hHotspot4</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 5</Description>
+      <Name>hHotspot5</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 6</Description>
+      <Name>hHotspot6</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 7</Description>
+      <Name>hHotspot7</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 8</Description>
+      <Name>hHotspot8</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 9</Description>
+      <Name>hHotspot9</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 10</Description>
+      <Name>hHotspot10</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 11</Description>
+      <Name>hHotspot11</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 12</Description>
+      <Name>hHotspot12</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 13</Description>
+      <Name>hHotspot13</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 14</Description>
+      <Name>hHotspot14</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 15</Description>
+      <Name>hHotspot15</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 16</Description>
+      <Name>hHotspot16</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 17</Description>
+      <Name>hHotspot17</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 18</Description>
+      <Name>hHotspot18</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 19</Description>
+      <Name>hHotspot19</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 20</Description>
+      <Name>hHotspot20</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 21</Description>
+      <Name>hHotspot21</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 22</Description>
+      <Name>hHotspot22</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 23</Description>
+      <Name>hHotspot23</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 24</Description>
+      <Name>hHotspot24</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 25</Description>
+      <Name>hHotspot25</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 26</Description>
+      <Name>hHotspot26</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 27</Description>
+      <Name>hHotspot27</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 28</Description>
+      <Name>hHotspot28</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 29</Description>
+      <Name>hHotspot29</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 30</Description>
+      <Name>hHotspot30</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 31</Description>
+      <Name>hHotspot31</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 32</Description>
+      <Name>hHotspot32</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 33</Description>
+      <Name>hHotspot33</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 34</Description>
+      <Name>hHotspot34</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 35</Description>
+      <Name>hHotspot35</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 36</Description>
+      <Name>hHotspot36</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 37</Description>
+      <Name>hHotspot37</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 38</Description>
+      <Name>hHotspot38</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 39</Description>
+      <Name>hHotspot39</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 40</Description>
+      <Name>hHotspot40</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 41</Description>
+      <Name>hHotspot41</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 42</Description>
+      <Name>hHotspot42</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 43</Description>
+      <Name>hHotspot43</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 44</Description>
+      <Name>hHotspot44</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 45</Description>
+      <Name>hHotspot45</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 46</Description>
+      <Name>hHotspot46</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 47</Description>
+      <Name>hHotspot47</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 48</Description>
+      <Name>hHotspot48</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+    <RoomHotspot>
+      <Description xml:space="preserve">Hotspot 49</Description>
+      <Name>hHotspot49</Name>
+      <Properties />
+      <WalkToPoint>0,0</WalkToPoint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+        <Event Index="3" />
+        <Event Index="4" />
+        <Event Index="5" />
+        <Event Index="6" />
+        <Event Index="7" />
+        <Event Index="8" />
+        <Event Index="9" />
+      </Interactions>
+    </RoomHotspot>
+  </Hotspots>
+  <WalkableAreas>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+    <RoomWalkableArea>
+      <AreaSpecificView>0</AreaSpecificView>
+      <FaceDirectionRatio>0</FaceDirectionRatio>
+      <MaxScalingLevel>100</MaxScalingLevel>
+      <MinScalingLevel>100</MinScalingLevel>
+      <Properties />
+      <ScalingLevel>100</ScalingLevel>
+      <UseContinuousScaling>False</UseContinuousScaling>
+    </RoomWalkableArea>
+  </WalkableAreas>
+  <WalkBehinds>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+    <RoomWalkBehind>
+      <Baseline>0</Baseline>
+    </RoomWalkBehind>
+  </WalkBehinds>
+  <Regions>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+    <RoomRegion>
+      <BlueTint>0</BlueTint>
+      <GreenTint>0</GreenTint>
+      <LightLevel>100</LightLevel>
+      <Properties />
+      <RedTint>0</RedTint>
+      <TintLuminance>100</TintLuminance>
+      <TintSaturation>50</TintSaturation>
+      <UseColourTint>False</UseColourTint>
+      <Interactions>
+        <ScriptModule>Rooms\403\room403.asc</ScriptModule>
+        <Event Index="0" />
+        <Event Index="1" />
+        <Event Index="2" />
+      </Interactions>
+    </RoomRegion>
+  </Regions>
+</Room>

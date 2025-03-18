@@ -16,15 +16,15 @@
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
-      <ClipGUIControls>False</ClipGUIControls>
+      <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>Deflate</CompressSpritesType>
       <CustomDataDir IsNull="True" />
       <CustomResolution>1280,720</CustomResolution>
       <DebugMode>True</DebugMode>
       <DefaultRoomMaskResolution>1</DefaultRoomMaskResolution>
-      <Description />
-      <DeveloperName />
+      <Description xml:space="preserve">AGS Camera Tech Demo</Description>
+      <DeveloperName xml:space="preserve">Ivan Mogilko</DeveloperName>
       <DeveloperURL />
       <DialogOptionsBackwards>False</DialogOptionsBackwards>
       <DialogOptionsBullet>0</DialogOptionsBullet>
@@ -39,7 +39,7 @@
       <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
       <GUIDAsString>{86a15214-703f-4e7f-9941-ccc3e595a03a}</GUIDAsString>
       <GameFileName>camdemo</GameFileName>
-      <GameName>camdemo</GameName>
+      <GameName xml:space="preserve">AGS Camera Tech Demo</GameName>
       <GameTextEncoding>utf-8</GameTextEncoding>
       <Genre>Adventure</Genre>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
@@ -62,7 +62,7 @@
       <RoomTransition>FadeOutAndIn</RoomTransition>
       <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
       <SaveGameFileExtension />
-      <SaveGameFolderName>camdemo</SaveGameFolderName>
+      <SaveGameFolderName xml:space="preserve">AGS Camera Tech Demo</SaveGameFolderName>
       <SaveScreenshots>False</SaveScreenshots>
       <ScaleCharacterSpriteOffsets>False</ScaleCharacterSpriteOffsets>
       <ScaleMovementSpeedWithMaskResolution>False</ScaleMovementSpeedWithMaskResolution>
@@ -74,7 +74,7 @@
       <SplitResources>0</SplitResources>
       <SpriteAlphaStyle>Improved</SpriteAlphaStyle>
       <TTFHeightDefinedBy>NominalHeight</TTFHeightDefinedBy>
-      <TTFMetricsFixup>SetAscenderToHeight</TTFMetricsFixup>
+      <TTFMetricsFixup>None</TTFMetricsFixup>
       <TextWindowGUI>3</TextWindowGUI>
       <ThoughtGUI>0</ThoughtGUI>
       <TurnBeforeFacing>False</TurnBeforeFacing>
@@ -83,7 +83,7 @@
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <UseLowResCoordinatesInScript>False</UseLowResCoordinatesInScript>
       <UseOldCustomDialogOptionsAPI>False</UseOldCustomDialogOptionsAPI>
-      <UseOldKeyboardHandling>True</UseOldKeyboardHandling>
+      <UseOldKeyboardHandling>False</UseOldKeyboardHandling>
       <Version>1.0.0.0</Version>
       <WalkInLookMode>False</WalkInLookMode>
       <WhenInterfaceDisabled>GreyOut</WhenInterfaceDisabled>
@@ -1064,7 +1064,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>4</Font>
-                <Height>22</Height>
+                <Height>24</Height>
                 <ID>0</ID>
                 <Left>24</Left>
                 <Locked>True</Locked>
@@ -1104,7 +1104,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>4</Font>
-                <Height>19</Height>
+                <Height>24</Height>
                 <ID>0</ID>
                 <Left>40</Left>
                 <Locked>True</Locked>
@@ -1603,7 +1603,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>4</Font>
-                <Height>20</Height>
+                <Height>24</Height>
                 <ID>0</ID>
                 <Left>0</Left>
                 <Locked>True</Locked>
@@ -1643,7 +1643,7 @@
                 <Clickable>True</Clickable>
                 <Enabled>True</Enabled>
                 <Font>4</Font>
-                <Height>22</Height>
+                <Height>24</Height>
                 <ID>0</ID>
                 <Left>8</Left>
                 <Locked>True</Locked>

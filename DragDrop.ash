@@ -139,7 +139,7 @@ struct DragDrop
   /// Notify hook key push down; this does not have to be real keycode
   import static void  HookKeyDown(int user_key = 0, MouseButton mbtn = 0);
   /// Assign a draggable object for the module when it expects to find one under the mouse cursor
-  import static void  HookObject(int user_mode, int obj_x, int obj_y, int tag = 0, String stag = 0);
+  import static void  HookObject(int user_mode, int obj_x, int obj_y, int tag = 0, String stag = null);
   /// Notify hook key release
   import static void  HookKeyUp();
   

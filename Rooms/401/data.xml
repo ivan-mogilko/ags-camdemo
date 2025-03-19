@@ -38,8 +38,8 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>False</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
-      <Enabled>False</Enabled>
+      <EffectiveBaseline>1</EffectiveBaseline>
+      <Enabled>True</Enabled>
       <Image>5</Image>
       <Name>oLightBridge</Name>
       <Properties />
@@ -66,7 +66,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>463</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>76</Image>
       <Name>oButLeftX</Name>
@@ -94,7 +94,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>493</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>72</Image>
       <Name>oButLeftO</Name>
@@ -122,7 +122,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>523</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>74</Image>
       <Name>oButLeftDot</Name>
@@ -150,7 +150,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>515</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>29</Image>
       <Name>oScreenLeft</Name>
@@ -178,7 +178,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>484</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>82</Image>
       <Name>oButRightX</Name>
@@ -206,7 +206,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>514</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>78</Image>
       <Name>oButRightO</Name>
@@ -234,7 +234,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>544</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>80</Image>
       <Name>oButRightDot</Name>
@@ -262,7 +262,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>548</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>67</Image>
       <Name>oScreenRight</Name>
@@ -290,7 +290,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>False</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>729</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>6</Image>
       <Name>oArch</Name>
@@ -318,7 +318,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>False</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>894</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>16</Image>
       <Name>oRoot</Name>
@@ -346,7 +346,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>False</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>731</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>17</Image>
       <Name>oPlant</Name>

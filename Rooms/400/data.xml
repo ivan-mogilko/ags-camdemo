@@ -38,7 +38,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>1046</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>12</Image>
       <Name>oKey</Name>
@@ -66,7 +66,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>1239</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>9</Image>
       <Name>oDoor1</Name>
@@ -94,7 +94,7 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
+      <EffectiveBaseline>674</EffectiveBaseline>
       <Enabled>True</Enabled>
       <Image>7</Image>
       <Name>oChest</Name>
@@ -122,8 +122,8 @@
       <BlendMode>Normal</BlendMode>
       <Clickable>True</Clickable>
       <Description />
-      <EffectiveBaseline>0</EffectiveBaseline>
-      <Enabled>False</Enabled>
+      <EffectiveBaseline>454</EffectiveBaseline>
+      <Enabled>True</Enabled>
       <Image>2</Image>
       <Name>oPortal</Name>
       <Properties />
